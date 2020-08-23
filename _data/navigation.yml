@@ -3,9 +3,16 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://teang1995.github.io/about/
+    url: /about/
   - title: "Category"
-    url: https://teang1995.github.io/categories/
+    children:
+      -title: "Computer Vision"
+       url: main/Computer-Vision/
+      -title: "Deep Learning"
+       url: main/Deep-Learning/
+      -title: "Paper Review"
+       url: main/Paper-Review/
+    url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

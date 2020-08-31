@@ -12,6 +12,12 @@ main:
        url: main/Deep-Learning/
       -title: "Paper Review"
        url: main/Paper-Review/
+       -title: "DataStructure"
+       url: main/DataStructure/
+       -title: "Algorithm"
+       url: main/Algorithm/
+       -title: "Python"
+       url: main/Python/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
